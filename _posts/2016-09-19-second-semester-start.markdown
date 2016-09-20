@@ -52,7 +52,7 @@ Over the summer, I implemented a basic version of the grouping algorithm which s
 
 With respect to the interface, what is clear is that there are a few core interactions that are unique to this platform, and those are the ones that I am focusing on first. What makes this platform different from other solutions that exist right now is the emphasis on the group element. Therefore, the interactions around communicating group membership and showing group progress are the most important. Below you can see the beginning of a prototype of what the teacher could be seeing as students discuss their homework in groups.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](http://i.imgur.com/2Z6Zp2c.jpg "Logo Title Text 1")
 
 Next steps
 ----------
